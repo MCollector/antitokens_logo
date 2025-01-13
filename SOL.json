@@ -1,0 +1,13 @@
+{
+  "name":"AntiSOL",
+  "symbol":"AntiSOL",
+  "description":"This token counterprices SOL",
+  "image":"https://github.com/MCollector/antitokens_logo/blob/fdb8b4b2023e0dd0d2eab28bfdf910d3f5bb3696/SOL.png?raw=true",
+  "tags":["sol","anti","antisol","antitoken"],
+  "extensions":{
+    "telegram":"https://t.me/antitokens_solana"
+  },
+  "creator":{
+    "name":"MC","site":"https://t.me/antitokens_solana"
+  }
+}
